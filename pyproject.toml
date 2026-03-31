@@ -1,5 +1,5 @@
 [project]
-name = "proyecto-diabetes"
+name = "Proyecto-Heart-Disease"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,4 +10,5 @@ dependencies = [
     "numpy>=2.4.4",
     "pandas>=3.0.2",
     "seaborn>=0.13.2",
+    "tensorflow>=2.21.0",
 ]
